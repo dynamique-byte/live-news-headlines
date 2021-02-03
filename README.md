@@ -40,6 +40,6 @@ https://live-news-headlines-india.netlify.app
 ### Set up
 
 - `npm install`
-- Replace: `[API_KEY]` and `[alanKey]`
+- Replace: `[API_KEY]` 
   - `[API_KEY]` is login in https://newsapi.org/
 - `npm start`
