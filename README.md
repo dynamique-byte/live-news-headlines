@@ -32,7 +32,6 @@ https://live-news-headlines-india.netlify.app
 
 ### Screenshots
 
-<img src="https://github.com/5ilenceSeeker/live-news-headlines/blob/main/Screenshots/output1.png" />
 
 <img src="https://github.com/5ilenceSeeker/live-news-headlines/blob/main/Screenshots/output2.png" />
 
